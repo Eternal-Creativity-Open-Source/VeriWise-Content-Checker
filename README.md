@@ -1,6 +1,5 @@
 # 🔍 VeriWise-Content-Checker
 
-## Server is Currently Down (504)
 
 **VeriWise-Content-Checker** is an intelligent, modular Python API system designed to help you validate and verify content efficiently across multiple aspects:
 
